@@ -4,13 +4,8 @@ title: Setup
 root: .
 ---
 
-Anda perlu meng-install MATLAB untuk mengikuti tutorial ini.
+Anda perlu meng-install Matlab terlebih dahulu sebelum mengikuti tutorial ini. Anda dapat menggunakan Matlab versi berapapun namun ada baiknya menggunakan versi yang sama yaitu `Matlab R2018a`. Installer dapat diperoleh dari Komputer TA (PC-3) pada direktori `D:\Master` atau dapat menghubungi [Asisten VibrasticLab](http://vibrastic.ep.its.ac.id/?page_id=7)
+    
+Anda juga perlu mengunduh file ini ([tutorial_matlab.zip]({{ page.root }}/data/tutorial_matlab.zip)) karena file tersebut yang nantinya akan digunakan dalam tutorial ini.
 
-Anda juga perlu mengunduh beberapa data yang nantinya akan digunakan dalam tutorial ini.
-You will also need to download some data, which we will analyze using MATLAB:
-
-    Make a new folder in your Desktop called matlab-novice-inflammation.
-    Download matlab-novice-inflammation-data.zip and move the file to this folder.
-    If it’s not unzipped yet, double-click on it to unzip it; this will place all the data in the matlab-novice-inflammation directory.
-    You can access this folder from the Unix shell with:
-
+Buat folder baru (terserah dimana) dengan nama folder adalah tutorial_matlab, kemudian ekstrak file tadi (`tutorial_matlab.zip`) ke folder tersebut (`tutorial_matlab`)
