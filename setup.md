@@ -8,7 +8,7 @@ root: .
 
 2. Anda dapat menggunakan Matlab versi berapapun namun ada baiknya menggunakan versi yang sama yaitu `Matlab R2018a`.
 
-3. Installer dapat diperoleh dari Komputer TA (PC-3) pada direktori `D:\Master` atau dapat menghubungi [Asisten VibrasticLab](http://vibrastic.ep.its.ac.id/?page_id=7)
+3. Installer dapat diperoleh dari Komputer TA (PC-3) pada direktori `D:\Master\` kemudian menghubungi [Asisten VibrasticLab](http://vibrastic.ep.its.ac.id/?page_id=7) untuk memperoleh license-nya.
     
 4. Kemudian anda juga perlu mengunduh file ini ([tutorial_matlab.zip]({{ page.root }}/data/tutorial_matlab.zip)) karena file tersebut yang nantinya akan digunakan dalam tutorial ini.
 
