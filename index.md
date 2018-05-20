@@ -3,15 +3,12 @@ layout: lesson
 root: .
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
-**Learn Matlab - THE HARDWAY!** *The hardway??* **Yup! The hardway!** Susah dong? Ahaha :smiling_imp:. Tapi *trust me*, saya [sudah melakukannya](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888) dan ini adalah metode terbaik untuk mempelajari sesuatu dimana kamu bodoh didalamnya. **Remember! No Pain, No Gain!**
 
-Tutorial ini hanya memiliki 3 tahap:
-
-1. Lakukan setiap perintah yang diberikan pada setiap tutorialnya.
-2. Jalankan script yang telah dibuat. Apakah berjalan sesuai dengan yang diinginkan? Jika tidak, *make it run*!
-3. *Repeat*.
-
-Tapi ingat, **Do Not Copy Paste**. Teman-teman harus mengetik setiap *script/code*-nya. Hal ini penting untuk membiasakan tangan dan melatih logika teman-teman terhadap fungsi-fungsi di Matlab. **If you copy-paste, you are cheating yourself out of effectiveness of the lessons.**
+### Metode pembelajaran 
+Metode pembalajan tutorialini adalah sbb: 
+1. **Berilmu sebelum beramal**, artinya anda harus tahu teori sebelum mempraktekkannya.
+2. **Learning by coding**, anda harus mempraktekkan (*coding*) apa yang disampaikan tutor, *no passive activity*.
+3. **Synchronizing typing**, apa yang anda ketik harus sama dan menghasilkan output yang sama dengan yang ditunjukkan pada tutorial ini atau didemokan tutor (*synchronized*).
 
 ![ngoding](../fig/meme_ngetik.gif)
 
